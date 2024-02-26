@@ -11,6 +11,7 @@ public class GameLoader : MonoBehaviour
         if (Bank.Instance == null)
         {
             Instantiate(SDK).name = "YandexSDK";
+            YandexSDK.ShowADV();
             Instantiate(bank).name = "Bank";
             Instantiate(language).name = "Language";
         }

@@ -13,7 +13,7 @@ public class PlayerInfo
     public uint skinsPassiveJumpIncrease = 0;      //++
     public uint skinsActiveJumpIncrease = 0;       //++
     public int coins = 0;                           //++
-    public uint overallJump = 50;                  //++
+    public uint overallJump = 100;                  //++
     //Скины
     public int selectedHatId = 0;                   //++
     public int selectedPetId = 0;                   //++

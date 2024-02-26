@@ -4713,7 +4713,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76fc800659e79b94292c1ccde07dd8e2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speedControl: {fileID: 0}
+  jumpControl: {fileID: 0}
   playerController: {fileID: 0}
   uiNavigation: {fileID: 0}
   shopFields: {fileID: 0}
@@ -4744,65 +4744,65 @@ MonoBehaviour:
   passiveUpgrades:
   - upgradeValue: 1
     upgradePrice: 2
-  - upgradeValue: 3
+  - upgradeValue: 2
     upgradePrice: 3
-  - upgradeValue: 6
-    upgradePrice: 4
-  - upgradeValue: 3
-    upgradePrice: 3
-  - upgradeValue: 9
-    upgradePrice: 5
-  - upgradeValue: 18
-    upgradePrice: 8
   - upgradeValue: 4
-    upgradePrice: 3
-  - upgradeValue: 13
-    upgradePrice: 6
-  - upgradeValue: 27
-    upgradePrice: 12
-  - upgradeValue: 6
     upgradePrice: 5
-  - upgradeValue: 19
+  - upgradeValue: 4
+    upgradePrice: 5
+  - upgradeValue: 9
     upgradePrice: 10
-  - upgradeValue: 39
+  - upgradeValue: 15
+    upgradePrice: 17
+  - upgradeValue: 4
+    upgradePrice: 6
+  - upgradeValue: 11
+    upgradePrice: 13
+  - upgradeValue: 15
     upgradePrice: 20
+  - upgradeValue: 6
+    upgradePrice: 10
+  - upgradeValue: 16
+    upgradePrice: 20
+  - upgradeValue: 22
+    upgradePrice: 28
   - upgradeValue: 8
     upgradePrice: 6
-  - upgradeValue: 24
-    upgradePrice: 12
-  - upgradeValue: 48
-    upgradePrice: 24
+  - upgradeValue: 20
+    upgradePrice: 22
+  - upgradeValue: 40
+    upgradePrice: 38
   activeUpgrades:
   - upgradeValue: 1
-    upgradePrice: 3
+    upgradePrice: 2
   - upgradeValue: 3
-    upgradePrice: 7
-  - upgradeValue: 5
-    upgradePrice: 15
+    upgradePrice: 4
+  - upgradeValue: 6
+    upgradePrice: 10
   - upgradeValue: 3
-    upgradePrice: 7
-  - upgradeValue: 9
-    upgradePrice: 14
-  - upgradeValue: 15
-    upgradePrice: 30
+    upgradePrice: 5
+  - upgradeValue: 7
+    upgradePrice: 12
+  - upgradeValue: 10
+    upgradePrice: 17
   - upgradeValue: 4
     upgradePrice: 9
-  - upgradeValue: 13
-    upgradePrice: 21
-  - upgradeValue: 22
-    upgradePrice: 45
+  - upgradeValue: 10
+    upgradePrice: 20
+  - upgradeValue: 15
+    upgradePrice: 30
   - upgradeValue: 6
     upgradePrice: 15
-  - upgradeValue: 19
+  - upgradeValue: 15
     upgradePrice: 35
-  - upgradeValue: 32
-    upgradePrice: 75
+  - upgradeValue: 22
+    upgradePrice: 48
   - upgradeValue: 8
     upgradePrice: 18
-  - upgradeValue: 24
-    upgradePrice: 42
-  - upgradeValue: 40
-    upgradePrice: 90
+  - upgradeValue: 18
+    upgradePrice: 40
+  - upgradeValue: 30
+    upgradePrice: 54
 --- !u!1 &8716357191889382918
 GameObject:
   m_ObjectHideFlags: 0

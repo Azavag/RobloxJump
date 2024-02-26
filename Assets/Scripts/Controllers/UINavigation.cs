@@ -122,7 +122,7 @@ public class UINavigation : MonoBehaviour
 
     void OpenSettings()
     {
-        if (OnAdvFreeZone.onAdvFreeZone || AdvManager.isAdvOpen)
+        if (AdvZoneCheck.notAdvZone || AdvManager.isAdvOpen)
             return;
         isSettingOpen = true;
         soundController.MakeClickSound();

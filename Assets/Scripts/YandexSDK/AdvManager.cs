@@ -2,7 +2,8 @@ using UnityEngine;
 
 public class AdvManager : MonoBehaviour
 {
-    float advTimer;
+    [SerializeField]
+    private float advTimer;
     float advBreak = 60f;
     AdvAlert advAlert;
     bool isCounterToAdv;
@@ -20,7 +21,7 @@ public class AdvManager : MonoBehaviour
     private void Update()
     {
         advTimer -= Time.deltaTime;
-        if(advTimer <= 0 && !isCounterToAdv && !OnAdvFreeZone.onAdvFreeZone)
+        if(advTimer <= 0 && !isCounterToAdv && !AdvZoneCheck.notAdvZone)
         {
             isCounterToAdv = true;
             advAlert.ShowAdvAlertPanel();
@@ -44,8 +45,8 @@ public class AdvManager : MonoBehaviour
     }
 }
 
-public static class OnAdvFreeZone
+public static class AdvZoneCheck
 {
-    public static bool onAdvFreeZone;
+    public static bool notAdvZone;
 }
 

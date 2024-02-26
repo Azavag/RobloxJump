@@ -48,13 +48,13 @@ MonoBehaviour:
     musicVolume: 0.5
     effectsVolume: 0.5
     sensivityValue: 1
-    currentSpeed: 0
-    upgradePassiveSpeedIncrease: 1
-    upgradeActiveSpeedIncrease: 1
-    skinsPassiveSpeedIncrease: 0
-    skinsActiveSpeedIncrease: 0
-    coins: 1000
-    overallSpeed: 50
+    currentJump: 0
+    upgradePassiveJumpIncrease: 1
+    upgradeActiveJumpIncrease: 1
+    skinsPassiveJumpIncrease: 0
+    skinsActiveJumpIncrease: 0
+    coins: 0
+    overallJump: 100
     selectedHatId: 0
     selectedPetId: 0
     selectedTrailId: 0

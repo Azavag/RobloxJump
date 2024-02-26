@@ -6,14 +6,14 @@ public class NotAdsZone : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
-            OnAdvFreeZone.onAdvFreeZone = true;
+            AdvZoneCheck.notAdvZone = true;
         }
     }
     private void OnTriggerExit(Collider other)
     {
         if (other.CompareTag("Player"))
         {
-            OnAdvFreeZone.onAdvFreeZone = false;
+            AdvZoneCheck.notAdvZone = false;
         }
     }
 }

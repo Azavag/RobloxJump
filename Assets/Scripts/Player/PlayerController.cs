@@ -8,7 +8,7 @@ public class PlayerController : MonoBehaviour
     private CharacterMovement characterMovement;
     private BaseCharacterController characterController;
     private CameraSensivityControl cameraSensivityControl;
-
+    private bool inAir;
 
     public static bool IsBusy = false;
     private void OnEnable()
@@ -27,13 +27,18 @@ public class PlayerController : MonoBehaviour
         characterController = GetComponent<BaseCharacterController>();
         playerAnimatorController = GetComponent<PlayerAnimatorController>();
         cameraSensivityControl = FindObjectOfType<CameraSensivityControl>();
-
-
     }
     void Start()
     {
         
     }
+    private void FixedUpdate()
+    {      
+        if (transform.position.y < -20)
+            transform.position = Vector3.zero;
+    }
+
+ 
 
     private void LateUpdate()
     {

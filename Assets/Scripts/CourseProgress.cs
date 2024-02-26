@@ -7,12 +7,16 @@ public class CourseProgress : MonoBehaviour
     public static event Action< Vector3> RunningCourse;
     public static event Action ExitingCourse;
 
+    [SerializeField]
+    private Transform startPoint;
+    [SerializeField]
+    private Transform finishPoint;
     int distanceLenght;
 
     // Start is called before the first frame update
     void Start()
     {
-        distanceLenght = (int)transform.localScale.y;
+        distanceLenght = (int)Vector3.Distance(startPoint.position, finishPoint.position);
     }
 
     private void OnTriggerEnter(Collider other)

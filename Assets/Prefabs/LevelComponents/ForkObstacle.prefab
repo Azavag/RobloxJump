@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 7158668533677370152}
   - component: {fileID: 2230316760445660623}
   - component: {fileID: 4904440783918965545}
-  m_Layer: 8
+  m_Layer: 10
   m_Name: Cube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -162,7 +162,7 @@ GameObject:
   - component: {fileID: 6226222157322747332}
   - component: {fileID: 1273128927330893068}
   - component: {fileID: 8339000998945573844}
-  m_Layer: 8
+  m_Layer: 10
   m_Name: Cube_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -305,7 +305,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5058482034232719661}
-  m_Layer: 8
+  m_Layer: 10
   m_Name: ForkObstacle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -344,7 +344,7 @@ GameObject:
   - component: {fileID: 1483706896096275003}
   - component: {fileID: 6569057487392141462}
   - component: {fileID: 5793410235714234287}
-  m_Layer: 8
+  m_Layer: 10
   m_Name: Cube_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}

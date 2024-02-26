@@ -49,7 +49,7 @@ public class CourseProgressTracking : MonoBehaviour
     }
     private void OnRunningCourse(Vector3 currentPosition)
     {
-        int currentDistance = (int)(currentPosition.y - playerStartPosition.y);
+        int currentDistance = (int)Vector3.Distance(currentPosition, playerStartPosition);
         UpdateSliderValue(currentDistance);
         UpdateProgressText(currentDistance);
     }
