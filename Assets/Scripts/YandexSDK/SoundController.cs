@@ -126,16 +126,18 @@ public class SoundController : MonoBehaviour
     public void MuteGame()
     {
         AdvManager.isAdvOpen = true;
+        CursorLocking.LockCursor(false);
         AudioListener.volume = 0;
         Time.timeScale = 0;
     }
     public void UnmuteGame()
     {
         AdvManager.isAdvOpen = false;
+        CursorLocking.LockCursor(true);
         AudioListener.volume = 1;
         Time.timeScale = 1;
     }
-
+  
     void OnSfxSlideValueChanged(float newValue)
     {
         mixer.SetFloat("SFXVolume", Mathf.Log10(newValue) * 20);
