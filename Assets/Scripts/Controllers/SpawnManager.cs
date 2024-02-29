@@ -33,6 +33,8 @@ public class SpawnManager : MonoBehaviour
     }
     void UnblockPlayer()
     {
+        if (AdvManager.isAdvOpen)
+            return;
         playerController.BlockPlayersInput(false);
     }
 

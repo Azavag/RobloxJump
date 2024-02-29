@@ -60,7 +60,7 @@ public class CourseProgressTracking : MonoBehaviour
 
     void UpdateSliderValue(int currentValue)
     {
-        progressSlider.value = (float)currentValue / distanceLenght;
+        progressSlider.value = Mathf.Clamp((float)currentValue / distanceLenght, 0, 1);
 
     }
 

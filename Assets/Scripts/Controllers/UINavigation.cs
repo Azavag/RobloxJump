@@ -33,7 +33,7 @@ public class UINavigation : MonoBehaviour
 
     PlayerController playerController;
     SoundController soundController;
-    bool isSettingOpen;
+    public static bool isSettingsOpen;
     private void OnEnable()
     {
         settingsButton.onClick.AddListener(OpenSettings);
@@ -49,7 +49,7 @@ public class UINavigation : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Tab))
         {
-            if (!isSettingOpen)
+            if (!isSettingsOpen)
             {
                 OpenSettings();
                 return;
@@ -122,9 +122,9 @@ public class UINavigation : MonoBehaviour
 
     void OpenSettings()
     {
-        if (AdvZoneCheck.notAdvZone || AdvManager.isAdvOpen)
+        if (AdvZone.insideNoAdvZone || AdvManager.isAdvOpen)
             return;
-        isSettingOpen = true;
+        isSettingsOpen = true;
         soundController.MakeClickSound();
         ToggleSettingsCanvas(true);
         if (PlayerController.IsBusy)
@@ -135,9 +135,11 @@ public class UINavigation : MonoBehaviour
 
     void CloseSettings()
     {
+        if (AdvManager.isAdvOpen)
+            return;
         soundController.MakeClickSound();
         ToggleSettingsCanvas(false);
-        isSettingOpen = false;
+        isSettingsOpen = false;
         SoundController.SaveVolumeSetting();
         if (PlayerController.IsBusy)
             return;

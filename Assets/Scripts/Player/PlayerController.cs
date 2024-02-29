@@ -28,17 +28,12 @@ public class PlayerController : MonoBehaviour
         playerAnimatorController = GetComponent<PlayerAnimatorController>();
         cameraSensivityControl = FindObjectOfType<CameraSensivityControl>();
     }
-    void Start()
-    {
-        
-    }
+
     private void FixedUpdate()
     {      
         if (transform.position.y < -20)
             transform.position = Vector3.zero;
-    }
-
- 
+    } 
 
     private void LateUpdate()
     {
@@ -67,6 +62,11 @@ public class PlayerController : MonoBehaviour
     {
         BlockPlayersInput(state);
         playerAnimatorController.PlayTrainAnimation(state);
+    }
+
+    public void MuliplierTrainSpeed(float multiplier)
+    {
+        playerAnimatorController.MultiplierTrainAnimation(multiplier);
     }
 
 }

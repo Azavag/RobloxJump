@@ -87,7 +87,6 @@ public class YandexSDK : MonoBehaviour
 
     static public void ShowRewardedADV()
     {
-
 #if !UNITY_EDITOR
         ShowRewardedAdvExtern();
 #else

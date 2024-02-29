@@ -114,12 +114,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7208807368395086953}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: mixamorig:RightUpLeg
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &7208807368395086953
 Transform:
@@ -230,7 +230,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8484658982857697921}
   - component: {fileID: 2427860136742938633}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: TheAmazingSpiderman3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -321,12 +321,12 @@ GameObject:
   m_Component:
   - component: {fileID: 8310061061851455029}
   - component: {fileID: 4207857432836681803}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: TheAmazingSpiderman5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8310061061851455029
 Transform:
@@ -411,7 +411,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1889795227372949500}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: mixamorig:RightLeg
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -444,12 +444,12 @@ GameObject:
   m_Component:
   - component: {fileID: 8116383433087010208}
   - component: {fileID: 6144269793473953134}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: TheAmazingSpiderman3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8116383433087010208
 Transform:
@@ -535,7 +535,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8106664492931652089}
   - component: {fileID: 6484965252286983856}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: TheAmazingSpiderman5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -627,12 +627,12 @@ GameObject:
   - component: {fileID: 206429953580543124}
   - component: {fileID: 2225410218318189016}
   - component: {fileID: 8053132211574188020}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Carpet_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &206429953580543124
 Transform:
@@ -708,12 +708,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1612938448784945070}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: mixamorig:Spine2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1612938448784945070
 Transform:
@@ -742,7 +742,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6084821517957789726}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: mixamorig:LeftArm
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -774,12 +774,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1792913816417648587}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: mixamorig:LeftUpLeg
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1792913816417648587
 Transform:
@@ -808,12 +808,12 @@ GameObject:
   - component: {fileID: 1078397883255359509}
   - component: {fileID: 9192623698933350820}
   - component: {fileID: 534799021963142328}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Carpet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1078397883255359509
 Transform:
@@ -889,12 +889,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6560062157267070318}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: mixamorig:LeftToe_End
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &6560062157267070318
 Transform:
@@ -921,7 +921,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7667518871437390488}
   - component: {fileID: 7062116579075348570}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: TheAmazingSpiderman2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1013,12 +1013,12 @@ GameObject:
   m_Component:
   - component: {fileID: 7043168046504709521}
   - component: {fileID: 8762621194597138206}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: TheAmazingSpiderman6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &7043168046504709521
 Transform:
@@ -1103,12 +1103,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5961439302632844829}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: mixamorig:RightShoulder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5961439302632844829
 Transform:
@@ -1136,7 +1136,7 @@ GameObject:
   m_Component:
   - component: {fileID: 724957939431378369}
   - component: {fileID: 8530445763653134087}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: TheAmazingSpiderman7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1225,12 +1225,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8200122086468593183}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: mixamorig:LeftShoulder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8200122086468593183
 Transform:
@@ -1257,7 +1257,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4464211127493018839}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: mixamorig:Spine
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1391,12 +1391,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8516613912418948485}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: mixamorig:LeftFoot
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8516613912418948485
 Transform:
@@ -1424,12 +1424,12 @@ GameObject:
   m_Component:
   - component: {fileID: 3089065031417945727}
   - component: {fileID: 8826858817212878745}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: TheAmazingSpiderman4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &3089065031417945727
 Transform:
@@ -1942,12 +1942,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1243263621616212137}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: mixamorig:LeftLeg
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1243263621616212137
 Transform:
@@ -1975,7 +1975,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3380307023361009818}
   - component: {fileID: 6416754874848215857}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: NPS
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2035,7 +2035,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3923149480864816759}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: mixamorig:RightFoot
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2067,12 +2067,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2745912460456477015}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: mixamorig:LeftArm
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2745912460456477015
 Transform:
@@ -2099,7 +2099,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2216585330812847194}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: mixamorig:LeftToeBase
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2131,12 +2131,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8780716659328943830}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: mixamorig:RightForeArm
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8780716659328943830
 Transform:
@@ -2163,7 +2163,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2928923822305573493}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: mixamorig:LeftHand
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2345,12 +2345,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2566949139933358255}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: mixamorig:HeadTop_End
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2566949139933358255
 Transform:
@@ -2376,12 +2376,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5375169811546449022}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: mixamorig:RightArm
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5375169811546449022
 Transform:
@@ -2558,7 +2558,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7223704690613114813}
   - component: {fileID: 2527224553772687423}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: TheAmazingSpiderman6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2649,12 +2649,12 @@ GameObject:
   m_Component:
   - component: {fileID: 3965143506401993530}
   - component: {fileID: 5814794943261928747}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: NPS
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &3965143506401993530
 Transform:
@@ -2709,7 +2709,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3800517456311456132}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: mixamorig:RightForeArm
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2741,7 +2741,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8381296053473384646}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: mixamorig:LeftForeArm
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2856,7 +2856,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1055029680821219324}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: mixamorig:RightShoulder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2971,7 +2971,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1688555790705389806}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: mixamorig:Head
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3134,7 +3134,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3232595752041132549}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: mixamorig:Spine1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3250,12 +3250,12 @@ GameObject:
   m_Component:
   - component: {fileID: 1892690594653213128}
   - component: {fileID: 6986662987119696657}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: TheAmazingSpiderman7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 0
 --- !u!4 &1892690594653213128
 Transform:
@@ -3339,12 +3339,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4260690916343778249}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: mixamorig:RightLeg
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4260690916343778249
 Transform:
@@ -3371,7 +3371,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8802336537364988691}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: mixamorig:Neck
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3403,7 +3403,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 871527664359722866}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: mixamorig:Hips
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3601,7 +3601,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2926942261740791002}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: mixamorig:RightArm
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3633,7 +3633,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4031109236258265604}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: mixamorig:LeftShoulder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3666,12 +3666,12 @@ GameObject:
   m_Component:
   - component: {fileID: 366031392734600053}
   - component: {fileID: 3949190784944981823}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: TheAmazingSpiderman1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &366031392734600053
 Transform:
@@ -3765,12 +3765,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2740964318135329357}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: mixamorig:RightFoot
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2740964318135329357
 Transform:
@@ -3797,7 +3797,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6536824704494657172}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: mixamorig:LeftUpLeg
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3860,12 +3860,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2053554264482652712}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: mixamorig:Hips
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2053554264482652712
 Transform:
@@ -3894,12 +3894,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1721557761587597220}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: mixamorig:RightHand
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1721557761587597220
 Transform:
@@ -4008,7 +4008,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4555143108678503078}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: mixamorig:RightToeBase
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4040,7 +4040,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5471365704055569645}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: mixamorig:LeftToe_End
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4072,7 +4072,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7834057923647057407}
   - component: {fileID: 4107327290493928316}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: TheAmazingSpiderman1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4171,12 +4171,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8062157583440421961}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: mixamorig:LeftForeArm
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &8062157583440421961
 Transform:
@@ -4204,7 +4204,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2822787542162181660}
   - component: {fileID: 183596057710557169}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: TheAmazingSpiderman4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4295,12 +4295,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6212044512549438565}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: mixamorig:LeftToeBase
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &6212044512549438565
 Transform:
@@ -4327,7 +4327,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2523564403863574283}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: mixamorig:Spine2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4513,12 +4513,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4627864360175127985}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: mixamorig:Spine
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &4627864360175127985
 Transform:
@@ -4545,7 +4545,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2210158851374207791}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: mixamorig:RightUpLeg
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4579,12 +4579,12 @@ GameObject:
   - component: {fileID: 1695282315254603556}
   - component: {fileID: 565769721275713686}
   - component: {fileID: 8987581688186262753}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Carpet_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1695282315254603556
 Transform:
@@ -4660,12 +4660,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1176400080738471090}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: mixamorig:LeftHand
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1176400080738471090
 Transform:
@@ -4691,7 +4691,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6296495728255652995}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: mixamorig:HeadTop_End
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4722,12 +4722,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6362399983420134200}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: mixamorig:RightToe_End
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &6362399983420134200
 Transform:
@@ -4784,12 +4784,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6188463083289071024}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: mixamorig:Neck
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &6188463083289071024
 Transform:
@@ -4816,7 +4816,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 9023546916800620369}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: mixamorig:LeftLeg
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4848,7 +4848,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7374496586136032004}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: mixamorig:RightToe_End
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4879,12 +4879,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6154831381965627480}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: mixamorig:Head
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &6154831381965627480
 Transform:
@@ -4912,12 +4912,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6558121324107398669}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: mixamorig:Spine1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &6558121324107398669
 Transform:
@@ -4944,7 +4944,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3363652164721692435}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: mixamorig:RightHand
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4976,12 +4976,12 @@ GameObject:
   m_Component:
   - component: {fileID: 5340078634847354618}
   - component: {fileID: 1828601044236920307}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: TheAmazingSpiderman2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5340078634847354618
 Transform:
@@ -5172,7 +5172,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8501772159617924925}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: mixamorig:LeftFoot
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5204,12 +5204,12 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 711384955046747463}
-  m_Layer: 13
+  m_Layer: 0
   m_Name: mixamorig:RightToeBase
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &711384955046747463
 Transform:
@@ -5332,11 +5332,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8559952733568227351, guid: b62e01d252bc0234b8baba36bf8d05b5, type: 3}
       propertyPath: m_Layer
-      value: 13
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8559952733568227351, guid: b62e01d252bc0234b8baba36bf8d05b5, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 0
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 9043473260045894317, guid: b62e01d252bc0234b8baba36bf8d05b5, type: 3}
       propertyPath: m_LocalScale.x
@@ -5426,7 +5426,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3931882039481251360, guid: 6943657e1d12a164eb87ba9e10a163ba, type: 3}
       propertyPath: m_Layer
-      value: 13
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3931882039481251360, guid: 6943657e1d12a164eb87ba9e10a163ba, type: 3}
       propertyPath: m_StaticEditorFlags

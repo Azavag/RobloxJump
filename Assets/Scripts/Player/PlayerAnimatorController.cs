@@ -4,11 +4,6 @@ public class PlayerAnimatorController : MonoBehaviour
 {
     [SerializeField] Animator animator;
 
-
-    private void Awake()
-    {
-
-    }
   
     public void SetSpeedMultiplier(float speedMultiply)
     {
@@ -33,10 +28,10 @@ public class PlayerAnimatorController : MonoBehaviour
             animator.SetTrigger("train");
         else animator.SetTrigger("not_train");
     }
-
-    public void ResetAnimations()
+    
+    public void MultiplierTrainAnimation(float multiplier)
     {
-
+        animator.SetFloat("train_multiplier", multiplier);
     }
 
 
