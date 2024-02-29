@@ -56,6 +56,9 @@ QualitySettings:
     terrainMaxTrees: 50
     excludedTargetPlatforms:
     - WebGL
+    - Android
+    - Server
+    - Standalone
   - serializedVersion: 3
     name: Low
     pixelLightCount: 0
@@ -106,6 +109,9 @@ QualitySettings:
     terrainMaxTrees: 50
     excludedTargetPlatforms:
     - WebGL
+    - Android
+    - Server
+    - Standalone
   - serializedVersion: 3
     name: Medium
     pixelLightCount: 1
@@ -205,6 +211,9 @@ QualitySettings:
     terrainMaxTrees: 50
     excludedTargetPlatforms:
     - WebGL
+    - Android
+    - Server
+    - Standalone
   m_TextureMipmapLimitGroupNames: []
   m_PerPlatformDefaultQuality:
     Android: 2
