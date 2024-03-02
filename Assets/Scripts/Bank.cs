@@ -19,6 +19,8 @@ public class PlayerInfo
     public int selectedPetId = 0;                   //++
     public int selectedTrailId = 0;                 //++
 
+    public int currentLevelNumber = 1;
+
     public bool[] hatSkinsBuyStates = new bool[90];                //++
     public bool[] petSkinsBuyStates = new bool[43];                //++
     public bool[] trailSkinsBuyStates = new bool[13];              //++

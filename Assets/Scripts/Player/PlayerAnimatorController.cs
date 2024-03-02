@@ -4,7 +4,10 @@ public class PlayerAnimatorController : MonoBehaviour
 {
     [SerializeField] Animator animator;
 
-  
+    private void Start()
+    {
+        MultiplierTrainAnimation(1f);
+    }
     public void SetSpeedMultiplier(float speedMultiply)
     {
         animator.SetFloat("speedMultipler", speedMultiply);

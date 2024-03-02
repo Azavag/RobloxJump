@@ -59,7 +59,9 @@ public class SceneSwapper : MonoBehaviour
     public void SwapScene()
     {
         soundController.Play("SceneSwap");
-        fadeScreen.ExitLevelFadeIn(() => SceneManager.LoadScene(nextSceneNumber));      
+        fadeScreen.ExitLevelFadeIn(() => SceneManager.LoadScene(nextSceneNumber));
+        Bank.Instance.playerInfo.currentLevelNumber = nextSceneNumber;
+        YandexSDK.Save();
     }
     public int GetUnlockPrice()
     {

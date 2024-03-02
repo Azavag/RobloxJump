@@ -28,6 +28,10 @@ public class PlayerController : MonoBehaviour
         playerAnimatorController = GetComponent<PlayerAnimatorController>();
         cameraSensivityControl = FindObjectOfType<CameraSensivityControl>();
     }
+    private void Start()
+    {
+        IsBusy = false;
+    }
 
     private void FixedUpdate()
     {      

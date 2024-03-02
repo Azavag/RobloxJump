@@ -11,10 +11,6 @@ public class SceneLoader : MonoBehaviour
     [SerializeField]
     private GameObject gameLoader;
 
-    private void Start()
-    {
-
-    }
     private void Update()
     {
 #if !UNITY_EDITOR
@@ -30,7 +26,7 @@ YandexSDK.dataIsLoaded = true;
         }
         if(isSdkReady && YandexSDK.dataIsLoaded)
         {
-            SceneManager.LoadScene(1);
+            SceneManager.LoadScene(Bank.Instance.playerInfo.currentLevelNumber);
         }
     }
     //из jslib
